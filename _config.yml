@@ -1,6 +1,7 @@
 name: dmasley
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.9931
+title: Dean Masley
 cta:
   domain: null
   bucket: null
@@ -14,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#282828'
+    - '#fefffe'
+    - '#616161'
+    - '#c6917a'
+    - '#bd3542'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
